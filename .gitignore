@@ -1,0 +1,21 @@
+# Visual Studio workspace and user settings
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build output
+Debug/
+Release/
+x64/
+Win32/
+ipch/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
